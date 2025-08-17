@@ -1,3 +1,10 @@
+// ------
+// Proyecto: Robot de reciclaje automático con servomotores y control Bluetooth
+// ------
+// Autor: ElekBlack
+// Licencia: MIT
+// ------
+
 #include <Servo.h>
 
 // Definición de servomotores

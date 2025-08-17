@@ -1,3 +1,10 @@
+// ------
+// Proyecto: Prueba de pantalla OLED SSD1306 128x64
+// ------
+// Autor: ElekBlack
+// Licencia: MIT
+// ------
+
 #include <Adafruit_GFX.h> 
 #include <Adafruit_SSD1306.h>
 const unsigned char PROGMEM logo [] = {

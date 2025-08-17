@@ -1,3 +1,10 @@
+// ------
+// Proyecto: Robot evador de obstáculos con servomotor y sensor ultrasónico
+// ------
+// Autor: ElekBlack
+// Licencia: MIT
+// ------
+
 #include <Servo.h>
 #include <NewPing.h>
 

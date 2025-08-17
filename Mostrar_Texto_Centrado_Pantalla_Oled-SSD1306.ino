@@ -1,5 +1,5 @@
 // ------
-// Función que recibe tres cadenas de texto como parámetros y las muestra centradas horizontalmente en la pantalla OLED SSD1306 de 128x64.
+// Proyecto: Función que recibe tres cadenas de texto como parámetros y las muestra centradas horizontalmente en la pantalla OLED SSD1306 de 128x64.
 // ------
 // Autor: ElekBlack
 // Licencia: MIT
